@@ -28,8 +28,8 @@ http://localhost:4000/api/stats/matches/average-quantity-takes-to-complete
 http://localhost:4000/api/stats/matches/percentage-complete-incomplete
 http://localhost:4000/api/stats/matches/matrix
 
-El endpoint extra que se agregó es para poblar una estadística expresada en un mapa de calor, el cual se ven las combinaciones de jugadas hechas por cada match:
-
+This is a spetial endpoint that gives you the data to show a heatmap.
+This heatmap is a match between each move that you have in the game.
 
 <img src="public/assets/heatmap.png"> 
 
